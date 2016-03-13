@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[testmax]]></title>
+        <description><![CDATA[testmax]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 08:00:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Non posso darti soluzioni per tutti i problemi della vita.
+Non ho risposte per i tuoi dubbi o timori,
+però posso ascoltarli e dividerli con te.
+Non posso cambiare né il tuo passato né il tuo futuro,
+però quando serve sarò vicino a te.
+Non posso evitarti di precipitare,
+solamente posso offrirti la mia mano
+perché ti sostenga e tu non cada.
+La tua allegria, il tuo successo e il tuo trionfo non sono i miei,
+però gioisco sinceramente quando ti vedo felice.
+Non giudico le decisioni che prendi nella vita,
+mi limito ad appoggiarti, a stimolarti e aiutarti se me lo chiedi.
+Non posso tracciare limiti dentro i quali devi muoverti,
+però posso offrirti lo spazio necessario per crescere.
+Non posso evitare la tua sofferenza
+quando qualche pena ti tocca il cuore,
+però posso piangere con te e raccogliere i pezzi per rimetterlo a nuovo.
+Non posso dirti né cosa sei né cosa devi essere,
+solamente posso volerti come sei ed essere tuo amico.
+Non sei né sopra né sotto né in mezzo
+non sei né in testa né alla fine della lista
+Non sei né il numero uno né il numero finale e
+tanto meno ho la pretesa
+di essere il primo, il secondo  o il terzo della tua lista.
+Non sono gran cosa,
+però sono tutto quello che posso essere.
+Jorge Luis Borges</p>]]></description>
+            <link>undefined244bbf95-8994-4310-bec3-55a78f90e060/index.html</link>
+            <guid isPermaLink="false">244bbf95-8994-4310-bec3-55a78f90e060</guid>
+            <pubDate>Sun, 13 Mar 2016 08:00:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
